@@ -7,7 +7,7 @@ Source: 'https://github.com/gitdagray'
 
 x. Intro
 1. Start Here
-2.
+2. Python Basics
 3.
 4.
 5.
@@ -20,6 +20,20 @@ x. Intro
 
 ## Notes
 
+
+
+### Variable Names
+
+* Start w/ letters or underscores
+* Letters, numbers, undersores
+* No symbols
+* No reserved keywords
+
+### Expressions
+
+### Statements
+
+
 ### VS Code
 
 `Ctrl + Shift + P` - Command Palette<br>
@@ -27,3 +41,4 @@ x. Intro
 ``Ctrl + ` `` - Show/Hide existing terminal
 `Ctrl + N` - New file
 `Ctrl + S` - Save file
+`Crtl + ,` - Open settings
