@@ -3,10 +3,10 @@ by `Dave Gray`
 
 YouTube: `https://www.youtube.com/watch?v=H2EJuAcrZYU`
 
-Source:
+Source: 'https://github.com/gitdagray'
 
 x. Intro
-1.
+1. Start Here
 2.
 3.
 4.
@@ -16,3 +16,14 @@ x. Intro
 8.
 9.
 10.
+
+
+## Notes
+
+### VS Code
+
+`Ctrl + Shift + P` - Command Palette<br>
+``Ctrl + Shift + ` `` - New terminal<br>
+``Ctrl + ` `` - Show/Hide existing terminal
+`Ctrl + N` - New file
+`Ctrl + S` - Save file
