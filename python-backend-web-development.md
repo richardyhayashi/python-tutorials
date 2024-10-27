@@ -9,8 +9,19 @@ Source: .
 2. Introduction To Python
 3. Installation Of Python
 4. Hello World In Python
-5.
-6.
-7.
-8.
+5. Variables In Python
+6. Strings In Python
+7. Numbers In Python
+8. Getting A User's Input
 9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
